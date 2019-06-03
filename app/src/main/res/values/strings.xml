@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FitMateProject</string>
+    <string name="login">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="txt_bypass">Bypass</string>
+    <string name="text_email">Email</string>
+    <string name="text_pass">Password</string>
+    <string name="signin_info">Please Sign In</string>
+    <string name="signup_info">Don\'t have an account? Sign up</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_details">Details</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="username">Username</string>
+    <string name="already_registered">Already have an account? Click here</string>
+    <string name="firebase_info">Creating a new online account</string>
+</resources>
